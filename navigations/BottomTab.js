@@ -1,7 +1,7 @@
 import React from 'react';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { FontAwesome } from "@expo/vector-icons";
-import ChatMenu from '../screens/chat/ChatMenu';
+import ChatMenu from '../screens/Chat/ChatMenu';
 import Setting_page from '../screens/setting/Setting_page';
 import Home_page from "../screens/home/Home_page";
 
